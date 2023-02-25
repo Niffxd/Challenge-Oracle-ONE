@@ -4,7 +4,7 @@
 
 ### En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Les dejo aquí un video del proyecto terminado :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_QaJViyUrUw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_QaJViyUrUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Las características solicitadas por nuestro cliente son las siguientes:
 
