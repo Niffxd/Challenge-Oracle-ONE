@@ -4,7 +4,11 @@
 
 ### En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Les dejo aquí un video del proyecto terminado :
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_QaJViyUrUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Java Challenge from ORACLE](https://img.youtube.com/vi/_QaJViyUrUw/mqdefault.jpg)](https://www.youtube.com/watch?v=_QaJViyUrUw)
+
+### Ejecutables:
+ - #### Archivo JAR: [Java Challenge.jar](https://drive.google.com/file/d/1leQmvE__QDDXpLBZC_meIrleOV84_usc)
+ - #### Archivo EXE: [Java Challenge.exe](https://drive.google.com/file/d/1006JtKKEm4HsyjJsFJS7yq46JukapsAK)
 
 ### Las características solicitadas por nuestro cliente son las siguientes:
 
