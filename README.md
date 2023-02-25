@@ -39,7 +39,7 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera sabía que necesitaba.
 
-En la sección de Anexos hay un gif explicando como podría funcionar la aplicación, no olvides verlo :D
+En la sección de Anexos hay un gif explicando como podría funcionar la aplicación, no olvides verlo 😄
 
 ---
 
