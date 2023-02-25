@@ -9,8 +9,13 @@ public class Temperature {
 
 	public Temperature(double amount) {
 		Object selectedExchange = JOptionPane.showInputDialog(null,
-				"Elije la moneda a la que deseas convertir tu dinero", "Monedas", JOptionPane.PLAIN_MESSAGE, null,
+				"Elija una opción para convertir", "Temperatura", JOptionPane.PLAIN_MESSAGE, null,
 				this.temperaturesOptions, this.temperaturesOptions[0]);
+		
+		if(selectedExchange == null) {
+			JOptionPane.showMessageDialog(null, "Gracias por utilizar el sistema.", "Message", JOptionPane.INFORMATION_MESSAGE);
+			System.exit(0);
+		}
 
 		switch (selectedExchange.toString()) {
 		case "Grados Celcius a Grados Farenheit":

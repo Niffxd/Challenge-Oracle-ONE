@@ -2,7 +2,11 @@
 
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-white?logo=Eclipse+IDE&logoColor=2C2255)](https://www.eclipse.org/) [![GitHub - Niffxd](https://img.shields.io/badge/GitHub-Niffxd-181717?logo=github&logoColor=white)](https://www.github.com/Niffxd) [![Trello - Alura](https://img.shields.io/badge/Trello-Alura-0052CC?logo=trello&logoColor=white)](https://trello.com/b/uOEgrgks/conversor-de-moneda-challenge-one-java) [![LinkedIn - Nicolas Sanchez](https://img.shields.io/badge/LinkedIn-Nicolas_Sanchez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirsanchez/)
 
-### En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
+### En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Les dejo aquí un video del proyecto terminado :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QaJViyUrUw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Las características solicitadas por nuestro cliente son las siguientes:
 
 ### **Requisitos:**
 
